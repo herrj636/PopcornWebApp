@@ -1,0 +1,100 @@
+body {
+  font: 15px arial, sans-serif;
+  background-color: #e5e5e5;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#headerLogo {
+  text-align: center;
+}
+
+#bodybox {
+  margin: auto;
+  max-width: 550px;
+  font: 15px arial, sans-serif;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  padding-right: 25px;
+  padding-left: 25px;
+  box-shadow: 5px 5px 5px grey;
+  border-radius: 15px;
+}
+
+#chatborder {
+  border-style: solid;
+  background-color: #F2cf33;
+  border-width: 3px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  padding-right: 20px;
+  padding-left: 15px;
+  border-radius: 15px;
+}
+
+.chatlog {
+   font: 15px arial, sans-serif;
+}
+
+#chatbox {
+  font: 17px arial, sans-serif;
+  height: 22px;
+  width: 100%;
+  align-items: center;
+  border-radius: 10px;
+}
+
+#trailer {
+  opacity:0;
+}
+
+#movieTitle {
+  height: auto;
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
+h1 {
+  margin: auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  margin-top: 10pt; 
+  margin-bottom: 0;
+}
+
+h4 {
+  font-size: 14pt;
+}
+
+h5 {
+  padding-left: 14pt;
+  font-size: 10pt;
+  margin-top: 3pt;
+}
+
+pre {
+  background-color: #f0f0f0;
+  margin-left: 20px;
+}
+
+p {
+  font-size: 10pt;
+  margin-top: 3pt;
+}
+
+iframe {
+    width: 500px;
+    height: 315px;
+}
